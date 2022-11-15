@@ -62,8 +62,4 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
-
-## Выводы
-
-Допишите выводы по проделанной работе.
+* [Жанар](https://www.linkedin.com/in/zhanar-bakenova)
